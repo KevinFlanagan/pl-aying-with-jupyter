@@ -1,2 +1,2 @@
-# pl-aying-with-jupyter
+# playing-with-jupyter
 Week 2 Lab
